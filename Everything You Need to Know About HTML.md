@@ -50,11 +50,11 @@ What is `<!DOCTYPE html>` and why it's important to include it
 
 ### Head
 
-Important for SEO, viewport (responsive), favicon, information to display an image and snippet of the website when sharing on social media or chats. For example:
+Important for SEO, viewport (responsive), favicon, information to display an image and snippet of the website when sharing on social media or chats. For example, when sharing Coding Jungle's YouTube channel, the snippet looks like this:
 
 ![Sharing URLs][share_url]
 
-[share_url]: ./assets/sharing_url.jpg
+[share_url]: ./assets/sharing_example.jpg
 
 ### Where to link assets
 
