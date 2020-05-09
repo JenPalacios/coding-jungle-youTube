@@ -27,7 +27,7 @@ Let's start.
 
 ## Undersand the structure
 
-Below is a snippet of the very basic an HTML page should have to render correctly in the browser.
+Below is a snippet of the very basics an HTML page should have to render correctly in the browser.
 
 ```html
 <!DOCTYPE html>
@@ -51,7 +51,11 @@ What is `<!DOCTYPE html>` and why it's important to include it
 
 ### Head
 
-Important for SEO, viewport (responsive), favicon, information to display an image and snippet of the website when sharing on social media or chats. For example, when sharing Coding Jungle's YouTube channel, the snippet looks like this:
+Important for:
+* SEO
+* Viewport (responsive)
+* Favicon
+* Information to show a snippet of the website when sharing on social media or chats. For example, when sharing Coding Jungle's YouTube channel, the snippet looks like this:
 
 ![Sharing URLs][share_url]
 
@@ -59,7 +63,7 @@ Important for SEO, viewport (responsive), favicon, information to display an ima
 
 ### Where to link assets
 
-It is important that you understand the benefits or damage linking files in the `<head>` vs at the end of the `<body>` tags.
+It is important that you understand the pros and cons of linking files in the `<head>` vs at the end of the `<body>` tags.
 
 ## Accessibility
 
@@ -71,5 +75,4 @@ It is important that you understand the benefits or damage linking files in the 
 
 ## Security
 
-- Implications of opening in new tab
-- rel
+- Implications of opening in new tab. Use `rel='noopener noreferrer'`
