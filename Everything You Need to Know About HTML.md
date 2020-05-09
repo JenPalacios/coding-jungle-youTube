@@ -52,10 +52,11 @@ What is `<!DOCTYPE html>` and why it's important to include it
 ### Head
 
 Important for:
-* SEO
-* Viewport (responsive)
-* Favicon
-* Information to show a snippet of the website when sharing on social media or chats. For example, when sharing Coding Jungle's YouTube channel, the snippet looks like this:
+
+- SEO
+- Viewport (responsive)
+- Favicon
+- Open Graph Meta Tags: Information to show a snippet of the website when sharing on social media or chats. For example, when sharing Coding Jungle's YouTube channel, the snippet looks like this:
 
 ![Sharing URLs][share_url]
 
