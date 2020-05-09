@@ -1,6 +1,6 @@
 ![Main Pic for Coding Jungle][main_pic]
 
-[main_pic]: ./assets/main_pic.jpg "Main Pic for Coding Jungle"
+[main_pic]: ./assets/main.jpg "Main Pic for Coding Jungle"
 
 # Hello World!
 
