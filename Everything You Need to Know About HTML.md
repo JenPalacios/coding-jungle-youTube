@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-This document is meant to give you a holistic view and provide you with the vocabulary you need in case you want to dig deeper into a subject.
+This document is meant to give you a holistic view and provide you with the vocabulary you need in case you want to dig deeper into a subject related to HTML.
 
 This is a general outline, you never stop learning anything in development. Even I, who have been coding websites for 5 years, have learned something new during my research for his content.
 
@@ -18,7 +18,8 @@ Let's start.
 - Attributes, and how they are used
 - HTML tags: [All HTML Tags](https://www.w3schools.com/tags/default.asp)
 - What are semantic tags and why they are important.
-  ![Semantic Tags][semantic_tags]
+
+![Semantic Tags][semantic_tags]
 
 [semantic_tags]: ./assets/semantic_tags.jpg
 
